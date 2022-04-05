@@ -1,1 +1,1 @@
-# gcp-deploy-static-web
+# pulumi-gcp-cloud-run
